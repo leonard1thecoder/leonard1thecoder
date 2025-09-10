@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Leonard 👋
 
-<!--
-**leonard1thecoder/leonard1thecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “Turning ideas into robust software”  
+> “Automation enthusiast & web developer”
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Software Developer** with experience in automation testing, website development, and Android development. I’m passionate about building robust solutions and transforming ideas into high-quality code.
+
+## 🚀 Top Skills & Technologies
+
+- **Automation Testing:** Selenium Webdriver, Appium
+- **BDD/TDD:** Spring Boot Starter Test
+- **Performance Testing:** LoadRunner 12.50, JMeter
+- **Database Management:** Oracle PL/SQL, MySQL
+- **CI/CD & DevOps:** Jenkins, Octane, Bitbucket, SonarQube
+- **Programming:** Java 11 (OOP, Functional, Concurrent)
+- **Web Development:** Spring Boot Web MVC, HTML5, CSS3, JavaScript
+- **Agile Methodologies:** JIRA, Octane, Confluence
+- **Data Formats:** XML, JSON
+- **Persistence:** JDBC, JPA
+
+## 🌟 Featured Project
+
+### [goTel](https://github.com/leonard1thecoder/goTel)
+*An innovative project that showcases my skills in automation, backend, and web development.*
+
+## 🧩 About Me
+
+- 💡 Always eager to learn new technologies and tackle new challenges
+- 🤖 Advocate for high-quality, maintainable, and well-tested code
+- 🛠️ Enjoys collaborating in Agile teams
+
+## 🎮 Hobbies
+
+- ♟️ Playing chess
+- ⚽ Soccer enthusiast
+- 👾 Gamer
+
+## 🤔 Fun Fact
+
+> Coding is my way of understanding the world itself.
+
+---
+
+## 🏅 Certification
+
+- [Oracle Certified Associate, Java SE 8 Programmer (OCA 8)](https://www.credly.com/badges/b324470a-4b81-4f2f-8d6c-141fc17a5287/linked_in_profile?trk=public_profile_see-credential)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://za.linkedin.com/in/sizolwakhe-mthimunye-372928167)
+
+Thanks for stopping by! 👋
