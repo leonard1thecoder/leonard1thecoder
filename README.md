@@ -18,7 +18,7 @@ I'm a **Software Developer** with experience in automation testing, website deve
 - **Web Development:** Spring Boot Web MVC, HTML5, CSS3, JavaScript
 - **Agile Methodologies:** JIRA, Octane, Confluence
 - **Data Formats:** XML, JSON
-- - **Spring boot Caching:** Spring-boot.Redis, Docker, Spring-boot.session 
+- **Spring boot Caching:** Spring-boot.Redis, Docker, Spring-boot.session 
 - **API Testing:** Postman
 - **Persistence:** JDBC, JPA
 
