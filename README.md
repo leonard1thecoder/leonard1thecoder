@@ -14,7 +14,7 @@ I'm a **Software Developer** with experience in automation testing, website deve
 - **Performance Testing:** LoadRunner 12.50, JMeter
 - **Database Management:** Oracle PL/SQL, MySQL
 - **CI/CD & DevOps:** Jenkins, Octane, Bitbucket, SonarQube
-- **Programming:** Java 11 (OOP, Functional, Concurrent)
+- **Programming:** Java 11 (OO, Functional, Concurrent, and Reflection Programming)
 - **Web Development:** Spring Boot Web MVC, HTML5, CSS3, JavaScript
 - **Agile Methodologies:** JIRA, Octane, Confluence
 - **Data Formats:** XML, JSON
