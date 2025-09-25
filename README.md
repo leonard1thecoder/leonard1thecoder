@@ -7,7 +7,7 @@
 
 I'm a **Software Developer** with experience in automation testing, website development, and Android development. I’m passionate about building robust solutions and transforming ideas into high-quality code.
 
- 🚀 Top Skills & Technologies
+## 🚀 Top Skills & Technologies
 
 - **Automation Testing:** Selenium Webdriver, Appium
 - **BDD/TDD:** Spring Boot Starter Test
@@ -27,7 +27,7 @@ I'm a **Software Developer** with experience in automation testing, website deve
 ### [goTel](https://github.com/leonard1thecoder/goTel)
 *An innovative project that showcases my skills in automation, backend, and web development.*
 
-## 🚀 Technologies Used
+ 🚀 Technologies Used
 - Object Oriented Programming
 - Concurrent Programming
 - Reflection Programming
