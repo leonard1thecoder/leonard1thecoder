@@ -27,6 +27,21 @@ I'm a **Software Developer** with experience in automation testing, website deve
 ### [goTel](https://github.com/leonard1thecoder/goTel)
 *An innovative project that showcases my skills in automation, backend, and web development.*
 
+## 🚀 Technologies Used
+- Object Oriented Programming
+- Concurrent Programming
+- Reflection Programming
+- Java 17
+- Java Spring MVC
+- Traditional JDBC API
+- Junit 5 and Mockito
+- Java Spring Sessions (data caching)
+- Java Spring Redis (data caching)
+- MySQL Server
+- Angular Js
+- Node Js
+
+
 ## 🧩 About Me
 
 - 💡 Always eager to learn new technologies and tackle new challenges
