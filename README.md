@@ -40,6 +40,7 @@ I'm a **Software Developer** with experience in automation testing, website deve
 - MySQL Server
 - Angular Js
 - Node Js
+- Docker Containers
 
 
 ## 🧩 About Me
