@@ -64,7 +64,7 @@ I'm a **Software Developer** with experience in automation testing, website deve
 ## 🏅 Certification
 
 - [Oracle Certified Associate, Java SE 8 Programmer (OCA 8)](https://www.credly.com/badges/b324470a-4b81-4f2f-8d6c-141fc17a5287/linked_in_profile?trk=public_profile_see-credential)
-- [AWS Educate Introduction to Cloud 101 - Training Badge]([https://www.credly.com/badges/b324470a-4b81-4f2f-8d6c-141fc17a5287/linked_in_profile?trk=public_profile_see-credential](https://www.credly.com/badges/0f255215-37d0-4be1-8801-7d775462c156)
+- [AWS Educate Introduction to Cloud 101 - Training Badge]([https://www.credly.com/badges/b324470a-4b81-4f2f-8d6c-141fc17a5287/linked_in_profile?trk=public_profile_see-credential](https://www.credly.com/badges/0f255215-37d0-4be1-8801-7d775462c156))
 
 ## 🌐 Connect with Me
 
