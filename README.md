@@ -55,9 +55,7 @@ I'm a **Software Developer** with experience in automation testing, website deve
 - ⚽ Soccer enthusiast
 - 👾 Gamer
 
-## 🤔 Fun Fact
 
-> Coding is my way of understanding the world itself.
 
 ---
 
@@ -69,4 +67,4 @@ I'm a **Software Developer** with experience in automation testing, website deve
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://za.linkedin.com/in/sizolwakhe-mthimunye-372928167)
 📧 leonard1thecoder@gmail.com
-Thanks for stopping by! 👋
+😄 Happy Coding!😄
